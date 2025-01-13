@@ -2,6 +2,9 @@
 Explore the catastrophic forgetting in PLM 
 
 
+My note https://zuti666.github.io/wiki/Paper%20Reading%20List-LLM%20and%20forgetting/
+
+
 # Paper Reading--LLM and forgetting
 
 
